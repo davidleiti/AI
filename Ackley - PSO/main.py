@@ -5,7 +5,7 @@ from matplotlib import pyplot, pylab
 
 swarm = Swarm(100, -5, 5, -5, 5)
 c = Controller(swarm, 0.5, 1.0, 2.5)
-for x in range(1000):
+for x in range(100):
     c.iterate()
 best = 20
 bestPos = [0, 0]
