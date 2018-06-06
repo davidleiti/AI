@@ -1,0 +1,17 @@
+theta,3,-2,-2,negative,zero,positive
+inf inf -2 0
+-2 0 2
+0 2 inf inf
+omega,3,-5,5,negative,zero,positive
+inf inf -5 0
+-5 0 5
+0 5 inf inf
+result,5,-4,4,fb,sb,az,sf,ff
+inf inf -4 -2
+-4 -2 0
+-2 0 2
+0 2 4
+2 4 inf inf
+fb,sb,az
+sb,az,sf
+az,sf,ff
